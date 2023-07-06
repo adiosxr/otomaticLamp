@@ -1,0 +1,2 @@
+# otomaticLamp
+terserah gue lah
