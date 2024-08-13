@@ -1,2 +1,2 @@
 # otomaticLamp
-terserah gue lah
+Project Lampu Otomatis
