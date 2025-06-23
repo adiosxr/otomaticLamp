@@ -1,2 +1,2 @@
 # otomaticLamp
-Project Lampu Otomatis
+Otomatic Lamp Project Internet of Things v2
